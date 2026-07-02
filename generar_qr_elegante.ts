@@ -12,7 +12,7 @@ const { document } = window;
 const qrCode = new QRCodeStyling({
     width: 1000,
     height: 1000,
-    data: "https://puerosoftware.github.io/QR_Pucusoft/",
+    data: "https://puerosoftware.github.io/Qr_Pucusoft/",
     dotsOptions: {
         color: "#003366",
         type: "extra-rounded"
